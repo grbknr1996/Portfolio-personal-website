@@ -9,7 +9,7 @@ const Info = () => {
       <Avatar />
       <div>
         <h2>Hi,I'm Gourab Konar👋</h2>
-        <h3>Fullstack Node.js Developer 👨‍💻</h3>
+        <h3>Fullstack Node.js React Developer 👨‍💻</h3>
         <SocialLinks />
       </div>
     </div>
