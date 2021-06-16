@@ -4,7 +4,7 @@ const seo = {
   DESCRIPTION: "Portfolio Website",
   TYPE: "WEBSITE",
   TWITTER_USERNAME: "@grbknr1996",
-  URL: "www.amanhimself.me",
+  URL: "https://gourabkonar.netlify.app/",
   IMAGE_URL: "https://i.imgur.com/TLvcVR4.jpg",
   DESCRIPTION: "Gourab Konar Portfolio"
 };

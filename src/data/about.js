@@ -10,5 +10,8 @@ export const what = [
   },
   {
     title: "Consultation for Node.js related projects"
+  },
+  {
+    title:'Working as a Software Engineer🧑🏻‍💼Cognizant Technology Solutions'
   }
 ];
